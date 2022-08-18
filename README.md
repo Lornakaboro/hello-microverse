@@ -33,6 +33,8 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/Lornakaboro)
+- Twitter: [@twitterhandle](https://twitter.com/KaboroLorna)
+- Linkedin [@linkedinprofile](https://www.linkedin.com/in/lorna-kaboro-23620b242/)
 
 ## 🤝 Contributing
 
